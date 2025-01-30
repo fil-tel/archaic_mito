@@ -1,1 +1,1 @@
-This repository contains the script and the AlphFold predictions for the bioinformatics project 1
+Scripts and the AlphFold predictions for the Bioinformatics Project 1 (7.5 ECTS).
